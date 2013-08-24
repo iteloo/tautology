@@ -1,0 +1,34 @@
+%p
+	A #{@term.to_s.singularize} is a form of #{@term.type.singularize}
+	with the particular distinction of being #{@term.subtype}.
+	This distinguishes the #{@term} from the more general group of regular #{@term.type.pluralize}.
+
+.figure.right
+	%img(src='https://chart.googleapis.com/chart?cht=v&chs=200x200&chd=t:100,10,00,20&chdl=A|B')
+	%p
+		%strong Figure 1.
+		A Venn Diagram indicating the relationship of #{@term.to_s.pluralize} to #{@term.type.pluralize}. Here, A represents  #{@term.type.pluralize}, whereas B represents #{@term.to_s.pluralize}.
+
+%p 	
+	The term "#{@term}" (which refers to a person, place, action, thing, concept, or 	
+	group of concepts) originated some time in the past, and was originally named, coined, and or invented by an entity or group of entities who probably lived during that time. 
+
+
+.figure
+	.pie-chart
+		&nbsp;
+	%p
+		%strong Figure 2.
+		As shown, the phrase "#{@term}" has substantiallly more letters than "#{@term.type}"
+
+%p 	
+	In #{Random.rand(1994..2012)}, in a novel empirical survey of #{Random.rand(10..3092)} #{@term.to_s.pluralize}, 100% were conclusively proven to be #{@term.type.pluralize}, supporting the theory that #{@term.to_s.pluralize} are a subset of #{@term.type.pluralize}.
+
+%script
+	$( function() { p = new PieChart( $('.pie-chart'), '#{@term}' ,'#{@term.type}') } );
+
+
+// Non-overlapping Venn Diagram
+// https://chart.googleapis.com/chart?cht=v&chs=200x200&chd=t:100,100,0,00&chdl=A|B
+// Fully-overlapping Venn Diagram
+// https://chart.googleapis.com/chart?cht=v&chs=200x200&chd=t:100,10,00,20&chdl=A|B
