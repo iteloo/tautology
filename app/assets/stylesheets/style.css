@@ -43,12 +43,24 @@ p.subtext {
   font-size:15pt;
 }
 
+.figure.right {
+  float:right;
+}
+
 .search-box .search-button {
   height: 60px;
   width: 60px;
   font-size: 20pt;
   float: left;
   border-radius: 0px 5px 5px 0px;
+}
+
+.figure {
+  float: left;
+  background-color: #eee;
+  padding: 5px;
+  width:210px;
+  margin-right: 7px;
 }
 
 .search-box.mini .search-button {
@@ -85,4 +97,9 @@ div.inside-column {
   width: 700px;
   height: 100%;
   position: relative;
+}
+
+.pie-chart {
+  width: 200px;
+  height: 200px;
 }
