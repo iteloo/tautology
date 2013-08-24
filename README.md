@@ -1,0 +1,4 @@
+tautology
+=========
+
+The worst dictionary. 
