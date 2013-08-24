@@ -1,0 +1,26 @@
+!!! 5
+%html
+	%head
+		%title Tautology
+		%script(src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js')
+		%link(rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css')
+		%link(rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css')
+		%script(src='//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js')
+		= stylesheet_link_tag    "application", :media => "all"
+		= javascript_include_tag "application" 
+		%script(src='/assets/script.js')
+	%body
+		.inside-column
+			.top-corner
+			.top-menu
+				.search-box.mini
+					%input.form-control(placeholder='e.g. graded manifold' value="#{@words.join ' '}")
+					%button.btn.btn-primary.search-button
+						%span.glyphicon.glyphicon-send
+				.h2 Tau·tol·o·gy
+			%h2 
+				= @words.join ' '
+			%hr.title-seperator
+			%p.subtext from Tautology, the worst dictionary.
+			%br		
+			= yield
