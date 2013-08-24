@@ -1,4 +1,4 @@
 tautology
 =========
 
-The worst dictionary. 
+The worst encyclopaedia. 
