@@ -13,19 +13,34 @@
 	The term "#{@term}" (which refers to a person, place, action, thing, concept, or 	
 	group of concepts) originated some time in the past, and was originally named, coined, and or invented by an entity or group of entities who probably lived during that time. 
 
+.figure
+	.bar-chart
+		&nbsp;
+	%p
+		%strong Figure 2.
+		As shown, the phrase "#{@term}" has substantiallly more letters than "#{@term.type}"
 
 .figure
 	.pie-chart
 		&nbsp;
 	%p
 		%strong Figure 2.
-		As shown, the phrase "#{@term}" has substantiallly more letters than "#{@term.type}"
+		As shown, 100% of  #{@term.subtype.pluralize} are #{@term.to_s.pluralize}
+
+.figure
+	%div(style='width:200px; height:200px; background-color: black; display: block')
+	%p
+		%strong Figure 3
+		An artist's conception of what a #{@term.to_s.singularize} might look like while in an extremely dark closet.
 
 %p 	
 	In #{Random.rand(1994..2012)}, in a novel empirical survey of #{Random.rand(10..3092)} #{@term.to_s.pluralize}, 100% were conclusively proven to be #{@term.type.pluralize}, supporting the theory that #{@term.to_s.pluralize} are a subset of #{@term.type.pluralize}.
 
+
+
 %script
-	$( function() { p = new PieChart( $('.pie-chart'), '#{@term}' ,'#{@term.type}') } );
+	$( function() { p = new BarChart( $('.bar-chart'), '#{@term}' ,'#{@term.type}') } );
+	$( function() { p = new PieChart( $('.pie-chart'), '#{@term.to_s.pluralize}' ,'#{@term.type.pluralize}') } );
 
 
 // Non-overlapping Venn Diagram

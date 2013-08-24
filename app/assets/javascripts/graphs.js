@@ -38,6 +38,31 @@ window.PieChart = (function(_super) {
   PieChart.prototype.drawChart = function() {
     var chart, data, options;
 
+    data = google.visualization.arrayToDataTable([['Word', 'Percent'], ["" + this.word1 + " that are  " + this.word2, 100], ["" + this.word1 + " that are not " + this.word2, 0]]);
+    options = {
+      title: "Percentage of " + this.word1 + " that are " + this.word2
+    };
+    chart = new google.visualization.PieChart(this.element.get(0));
+    return chart.draw(data, options);
+  };
+
+  return PieChart;
+
+})(Graph);
+
+window.BarChart = (function(_super) {
+  __extends(BarChart, _super);
+
+  function BarChart(element, word1, word2) {
+    this.element = element;
+    this.word1 = word1;
+    this.word2 = word2;
+    BarChart.__super__.constructor.call(this, this.element);
+  }
+
+  BarChart.prototype.drawChart = function() {
+    var chart, data, options;
+
     data = google.visualization.arrayToDataTable([['Thing', 'Number of Letters'], [this.word1, this.word1.length], [this.word2, this.word2.length]]);
     options = {
       title: 'Number of Letters Comparison'
@@ -46,6 +71,6 @@ window.PieChart = (function(_super) {
     return chart.draw(data, options);
   };
 
-  return PieChart;
+  return BarChart;
 
 })(Graph);

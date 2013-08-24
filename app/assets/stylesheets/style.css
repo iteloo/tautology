@@ -95,11 +95,11 @@ div.inside-column {
   display:block;
   margin:auto;
   width: 700px;
-  height: 100%;
+  min-height: 100%;
   position: relative;
 }
 
-.pie-chart {
+.pie-chart, .bar-chart {
   width: 200px;
   height: 200px;
 }
