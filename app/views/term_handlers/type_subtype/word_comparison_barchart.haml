@@ -1,0 +1,13 @@
+// Bar chart. Shows the number of words that
+// are in each term. Refer to /assets/javascripts/graphs.coffee
+// for how this is generated.
+
+.figure
+	.bar-chart
+		&nbsp;
+	%p
+		%strong Figure #{@figure_count+=1}.
+		As shown, the phrase "#{@term}" has substantiallly more letters than "#{@term.type}"
+
+%script
+	$( function() { p = new BarChart( $('.bar-chart'), '#{@term}' ,'#{@term.type}') } );

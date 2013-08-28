@@ -1,0 +1,7 @@
+// Venn Diagram. This picture is a giant circle with a small circle inside of it.
+
+.figure.right
+	%img(src='https://chart.googleapis.com/chart?cht=v&chs=200x200&chd=t:100,10,00,20&chdl=A|B')
+	%p
+		%strong Figure #{@figure_count+=1}.
+		A Venn Diagram indicating the relationship of #{@term.to_s.pluralize} to #{@term.type.pluralize}. Here, A represents  #{@term.type.pluralize}, whereas B represents #{@term.to_s.pluralize}.

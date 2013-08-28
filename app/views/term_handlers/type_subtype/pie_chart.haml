@@ -1,0 +1,9 @@
+.figure
+	.pie-chart
+		&nbsp;
+	%p
+		%strong Figure #{@figure_count+=1}.
+		As shown, 100% of #{@term.to_s.pluralize} are also #{@term.type.pluralize}
+
+%script
+	$( function() { p = new PieChart( $('.pie-chart'), '#{@term.to_s.pluralize}' ,'#{@term.type.pluralize}') } );

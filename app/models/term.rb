@@ -1,7 +1,26 @@
 class Term
+
+	@@directories = [:general]
+
 	def initialize(words_array)
 		@words = words_array
 		@string = @words.join ' '
+	end
+
+	def self.mixin_directories *dirs
+		dirs.each do |d|
+			@@directories.push d
+		end
+		return @@directories
+	end
+
+	
+	def mixin_directories *dirs 
+		self.class.mixin_directories *dirs
+	end
+
+	def part_of_speech
+		PartOfSpeech.analyze Rails.root.join('lib', 'assets', 'lexicon.txt'), @string
 	end
 
 	def is_singular?

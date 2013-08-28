@@ -1,0 +1,9 @@
+// This is an entirely black "photo", which is
+// supposed to represent an artit's conception of
+// the thing.
+
+.figure
+	%div(style='width:200px; height:200px; background-color: black; display: block')
+	%p
+		%strong Figure #{@figure_count+=1}
+		An artist's conception of what a #{@term.to_s.singularize} might look like while in an extremely dark closet.
