@@ -36090,3 +36090,4 @@ Served asset /application.js - 200 OK (4ms)
 
 Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-24 05:15:07 +0000
 Served asset /script.js - 200 OK (0ms)
+Connecting to database specified by database.yml
