@@ -1,23 +1,20 @@
 class DefinitionController < ApplicationController
 	layout 'dictionary'
+
+	# This does the work of including ALL models ever!
+	Dir[Rails.root + 'app/models/*.rb'].each do |path|
+  		require path
+	end
+
 	def search
 		@words = params[:searchstring].split '-'
-		if @words.length > 1
-			self.type_subtype
-		else
-			self.single_word
-		end
+		@term = Term.new @words
+		@term = @term.becomes_true_self
+
+		puts "Term became a #{@term.class.name}"
 		
 		@mixins = self.get_relevant_partials(@term)
 		render "result"
-	end
-
-	def single_word
-		@term = SingleTerm.new @words
-	end
-
-	def type_subtype
-		@term = TypeSubTypeTerm.new @words
 	end
 
 
