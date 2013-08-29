@@ -44,8 +44,10 @@ class DefinitionController < ApplicationController
 		# Now assemble some fraction of those views and return them.
 		views.shuffle!
 
-		for i in 1..views.count
-			mixins.push views.pop
+		if views.count > 0
+			for i in 1..(1+ Random.rand(views.count) )
+				mixins.push views.pop
+			end
 		end
 
 		puts "And now we show the mixins..."

@@ -1,7 +1,5 @@
 class Term
 
-	@@directories = [:general]
-
 	def initialize(words_array)
 		@words = words_array
 		@string = @words.join ' '
@@ -9,12 +7,16 @@ class Term
 
 	def self.mixin_directories *dirs
 		dirs.each do |d|
-			@@directories.push d
+			if defined? @directories
+				@directories.push d
+			else
+				@directories = [d]
+			end
 		end
-		return @@directories
+		return @directories
 	end
 
-	
+
 	def mixin_directories *dirs 
 		self.class.mixin_directories *dirs
 	end

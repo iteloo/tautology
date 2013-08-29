@@ -47258,3 +47258,2495 @@ Served asset /script.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:49:29 +0000
 Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (0.8ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.1ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (5.0ms)
+  Rendered definition/result.haml within layouts/dictionary (12.3ms)
+Completed 200 OK in 103ms (Views: 96.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /definition.css - 304 Not Modified (12ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:27 +0000
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-28 23:52:30 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/question" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"question"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (0.9ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (4.4ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.2ms)
+  Rendered definition/result.haml within layouts/dictionary (12.3ms)
+Completed 200 OK in 98ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /definition.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /jquery.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:41 +0000
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/mathematics" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"mathematics"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (1.7ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (4.4ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.2ms)
+  Rendered definition/result.haml within layouts/dictionary (14.1ms)
+Completed 200 OK in 99ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /application.css - 304 Not Modified (97ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /style.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /definition.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /script.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-28 23:52:46 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (0.8ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.1ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (4.4ms)
+  Rendered definition/result.haml within layouts/dictionary (11.1ms)
+Completed 200 OK in 93ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /application.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /style.css - 304 Not Modified (16ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-28 23:52:51 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+  Rendered definition/result.haml within layouts/dictionary (0.1ms)
+Completed 200 OK in 106ms (Views: 93.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /script.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-28 23:53:08 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:53:09 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+  Rendered definition/result.haml within layouts/dictionary (0.2ms)
+Completed 200 OK in 91ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /jquery.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /public.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-28 23:53:10 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:53:23 +0000
+
+SyntaxError (/opt/bitnami/projects/tautology.iteloo/tautology/app/controllers/definition_controller.rb:49: syntax error, unexpected keyword_end, expecting ')'
+/opt/bitnami/projects/tautology.iteloo/tautology/app/controllers/definition_controller.rb:55: syntax error, unexpected keyword_end, expecting ')'):
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `block in load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:639:in `new_constants_in'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:468:in `load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:353:in `require_or_load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:502:in `load_missing_constant'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:192:in `block in const_missing'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `each'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `const_missing'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:230:in `block in constantize'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `each'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `constantize'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:554:in `get'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:69:in `controller_reference'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:54:in `controller'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:32:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:612:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.5) lib/rack/etag.rb:23:in `call'
+  rack (1.4.5) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:210:in `context'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:205:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  activerecord (3.2.13) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.13) lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `_run__3806984298836837025__call__3832586731956672501__callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  railties (3.2.13) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.5) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.5) lib/rack/lint.rb:36:in `call'
+  rack (1.4.5) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.5) lib/rack/commonlogger.rb:33:in `call'
+  rack (1.4.5) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.6ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:53:23 +0000
+
+SyntaxError (/opt/bitnami/projects/tautology.iteloo/tautology/app/controllers/definition_controller.rb:49: syntax error, unexpected keyword_end, expecting ')'
+/opt/bitnami/projects/tautology.iteloo/tautology/app/controllers/definition_controller.rb:55: syntax error, unexpected keyword_end, expecting ')'):
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `block in load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:639:in `new_constants_in'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:468:in `load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:353:in `require_or_load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:502:in `load_missing_constant'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:192:in `block in const_missing'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `each'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `const_missing'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:230:in `block in constantize'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `each'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `constantize'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:554:in `get'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:69:in `controller_reference'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:54:in `controller'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:32:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:612:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.5) lib/rack/etag.rb:23:in `call'
+  rack (1.4.5) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:210:in `context'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:205:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  activerecord (3.2.13) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.13) lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `_run__3806984298836837025__call__3832586731956672501__callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  railties (3.2.13) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.5) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.5) lib/rack/lint.rb:36:in `call'
+  rack (1.4.5) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.5) lib/rack/commonlogger.rb:33:in `call'
+  rack (1.4.5) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.4ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-28 23:53:30 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 9ms
+
+ArgumentError (wrong number of arguments (2 for 0..1)):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.6ms)
+
+
+Started GET "/person" for 24.84.57.11 at 2013-08-28 23:55:05 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"person"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (wrong number of arguments (2 for 0..1)):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.1ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-28 23:55:07 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"stupid-stuff"}
+Completed 500 Internal Server Error in 5ms
+
+ArgumentError (wrong number of arguments (2 for 0..1)):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (26.9ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-28 23:55:28 +0000
+
+SyntaxError (/opt/bitnami/projects/tautology.iteloo/tautology/app/controllers/definition_controller.rb:47: syntax error, unexpected tLPAREN_ARG, expecting ')'
+		for i in 1..(1+ Random.rand (views.count-1) )
+		                             ^):
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `block in load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:639:in `new_constants_in'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:468:in `load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:353:in `require_or_load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:502:in `load_missing_constant'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:192:in `block in const_missing'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `each'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `const_missing'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:230:in `block in constantize'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `each'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `constantize'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:554:in `get'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:69:in `controller_reference'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:54:in `controller'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:32:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:612:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.5) lib/rack/etag.rb:23:in `call'
+  rack (1.4.5) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:210:in `context'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:205:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  activerecord (3.2.13) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.13) lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `_run__3806984298836837025__call__3832586731956672501__callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  railties (3.2.13) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.5) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.5) lib/rack/lint.rb:36:in `call'
+  rack (1.4.5) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.5) lib/rack/commonlogger.rb:33:in `call'
+  rack (1.4.5) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.9ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (24.3ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-28 23:55:29 +0000
+
+SyntaxError (/opt/bitnami/projects/tautology.iteloo/tautology/app/controllers/definition_controller.rb:47: syntax error, unexpected tLPAREN_ARG, expecting ')'
+		for i in 1..(1+ Random.rand (views.count-1) )
+		                             ^):
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:469:in `block in load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:639:in `new_constants_in'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:468:in `load_file'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:353:in `require_or_load'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:502:in `load_missing_constant'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:192:in `block in const_missing'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `each'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:190:in `const_missing'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:230:in `block in constantize'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `each'
+  activesupport (3.2.13) lib/active_support/inflector/methods.rb:229:in `constantize'
+  activesupport (3.2.13) lib/active_support/dependencies.rb:554:in `get'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:69:in `controller_reference'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:54:in `controller'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:32:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.13) lib/action_dispatch/routing/route_set.rb:612:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.5) lib/rack/etag.rb:23:in `call'
+  rack (1.4.5) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:210:in `context'
+  rack (1.4.5) lib/rack/session/abstract/id.rb:205:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  activerecord (3.2.13) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.13) lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `_run__3806984298836837025__call__3832586731956672501__callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.13) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.13) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  railties (3.2.13) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.5) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.5) lib/rack/lint.rb:36:in `call'
+  rack (1.4.5) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.5) lib/rack/commonlogger.rb:33:in `call'
+  rack (1.4.5) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /opt/bitnami/ruby/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.4ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"stupid-stuff"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (4.5ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/word_comparison_barchart.haml (0.3ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/venn_diagram.haml (8.8ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/definition.haml (2.4ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/empirical_study.haml (3.1ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.2ms)
+  Rendered definition/result.haml within layouts/dictionary (39.0ms)
+Completed 200 OK in 148ms (Views: 133.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /application.css - 200 OK (14ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /boots%20-%20Copy.css - 200 OK (11ms)
+
+
+Started GET "/assets/boots.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /boots.css - 200 OK (3ms)
+
+
+Started GET "/assets/definition.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /definition.css - 200 OK (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /style.css - 200 OK (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /public.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /jquery.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/definition.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /definition.js - 200 OK (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /graphs.js - 200 OK (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /public.js - 200 OK (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /page-specific/public-index.js - 200 OK (1ms)
+
+
+Started GET "/assets/script.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /script.js - 200 OK (1ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /script.js.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /application.js - 200 OK (2ms)
+
+
+Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-28 23:55:38 +0000
+Served asset /script.js - 200 OK (1ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"stupid-stuff"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (1.2ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/word_comparison_barchart.haml (0.3ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/venn_diagram.haml (4.6ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/definition.haml (1.8ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/empirical_study.haml (2.7ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.1ms)
+  Rendered definition/result.haml within layouts/dictionary (24.2ms)
+Completed 200 OK in 112ms (Views: 108.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/definition.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /definition.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /public.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/script.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-28 23:55:40 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-29 00:02:50 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"stupid-stuff"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (1.7ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/word_comparison_barchart.haml (0.3ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/venn_diagram.haml (5.1ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/definition.haml (2.0ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/empirical_study.haml (3.0ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.2ms)
+  Rendered definition/result.haml within layouts/dictionary (108.1ms)
+Completed 200 OK in 197ms (Views: 192.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /public.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/boots.css?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /jquery.js - 304 Not Modified (17ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /script.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-29 00:02:51 +0000
+Served asset /script.js - 304 Not Modified (2ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:17:55 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/word_comparison_barchart.haml (2.8ms)
+  Rendered definition/result.haml within layouts/dictionary (6.2ms)
+Completed 500 Internal Server Error in 23ms
+
+ActionView::Template::Error (undefined method `type' for {"words":["math"],"string":"math"}:SingleTerm):
+    7: 		&nbsp;
+    8: 	%p
+    9: 		%strong Figure #{@figure_count+=1}.
+    10: 		As shown, the phrase "#{@term}" has substantiallly more letters than "#{@term.type}"
+    11: 
+    12: %script
+    13: 	$( function() { p = new BarChart( $('.bar-chart'), '#{@term}' ,'#{@term.type}') } );
+  app/views/term_handlers/type_subtype/word_comparison_barchart.haml:10:in `_app_views_term_handlers_type_subtype_word_comparison_barchart_haml___1337308585110131459_70289088017440'
+  app/views/definition/result.haml:3:in `block in _app_views_definition_result_haml___4021225452356692595_15829160'
+  app/views/definition/result.haml:2:in `each'
+  app/views/definition/result.haml:2:in `_app_views_definition_result_haml___4021225452356692595_15829160'
+  app/controllers/definition_controller.rb:12:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.5ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.6ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (24.2ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-29 00:26:22 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"stupid-stuff"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (1.0ms)
+  Rendered definition/result.haml within layouts/dictionary (3.9ms)
+Completed 200 OK in 247ms (Views: 241.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /public.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:23 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:25 +0000
+Served asset /application.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:25 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-29 00:26:25 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/stupid-stuff" for 69.165.255.169 at 2013-08-29 00:26:29 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"stupid-stuff"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (0.9ms)
+  Rendered definition/result.haml within layouts/dictionary (3.9ms)
+Completed 200 OK in 82ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /application.css - 304 Not Modified (12ms)
+
+
+Started GET "/assets/definition.css?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /graphs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/script.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-29 00:26:30 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/hello" for 69.165.255.169 at 2013-08-29 00:26:33 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"hello"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/venn_diagram.haml (4.1ms)
+  Rendered definition/result.haml within layouts/dictionary (8.2ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (undefined method `type' for {"words":["hello"],"string":"hello"}:SingleTerm):
+    4: 	%img(src='https://chart.googleapis.com/chart?cht=v&chs=200x200&chd=t:100,10,00,20&chdl=A|B')
+    5: 	%p
+    6: 		%strong Figure #{@figure_count+=1}.
+    7: 		A Venn Diagram indicating the relationship of #{@term.to_s.pluralize} to #{@term.type.pluralize}. Here, A represents  #{@term.type.pluralize}, whereas B represents #{@term.to_s.pluralize}.
+  app/views/term_handlers/type_subtype/venn_diagram.haml:7:in `_app_views_term_handlers_type_subtype_venn_diagram_haml___213832012293086497_16064560'
+  app/views/definition/result.haml:3:in `block in _app_views_definition_result_haml___4021225452356692595_15829160'
+  app/views/definition/result.haml:2:in `each'
+  app/views/definition/result.haml:2:in `_app_views_definition_result_haml___4021225452356692595_15829160'
+  app/controllers/definition_controller.rb:12:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.6ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (81.0ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (101.3ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:29:10 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 9ms
+
+NoMethodError (undefined method `directories' for SingleTerm:Class):
+  app/models/term.rb:11:in `block in mixin_directories'
+  app/models/term.rb:10:in `each'
+  app/models/term.rb:10:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.4ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.6ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:29:29 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 8ms
+
+NoMethodError (undefined method `directories' for SingleTerm:Class):
+  app/models/term.rb:11:in `block in mixin_directories'
+  app/models/term.rb:10:in `each'
+  app/models/term.rb:10:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.6ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (27.9ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:29:40 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 9ms
+
+NoMethodError (undefined method `push' for nil:NilClass):
+  app/models/term.rb:11:in `block in mixin_directories'
+  app/models/term.rb:10:in `each'
+  app/models/term.rb:10:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (24.6ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:29:55 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 7ms
+
+NoMethodError (undefined method `push' for nil:NilClass):
+  app/models/term.rb:12:in `block in mixin_directories'
+  app/models/term.rb:11:in `each'
+  app/models/term.rb:11:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.9ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:29:56 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 4ms
+
+NoMethodError (undefined method `push' for nil:NilClass):
+  app/models/term.rb:12:in `block in mixin_directories'
+  app/models/term.rb:11:in `each'
+  app/models/term.rb:11:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (9.1ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (29.8ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:30:00 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 7ms
+
+NoMethodError (undefined method `push' for nil:NilClass):
+  app/models/term.rb:12:in `block in mixin_directories'
+  app/models/term.rb:11:in `each'
+  app/models/term.rb:11:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.4ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (27.1ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:30:01 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 4ms
+
+NoMethodError (undefined method `push' for nil:NilClass):
+  app/models/term.rb:12:in `block in mixin_directories'
+  app/models/term.rb:11:in `each'
+  app/models/term.rb:11:in `mixin_directories'
+  app/models/single_term.rb:2:in `<class:SingleTerm>'
+  app/models/single_term.rb:1:in `<top (required)>'
+  app/controllers/definition_controller.rb:16:in `single_word'
+  app/controllers/definition_controller.rb:8:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.0ms)
+
+
+Started GET "/hello" for 69.165.255.169 at 2013-08-29 00:30:43 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"hello"}
+Completed 500 Internal Server Error in 9ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.4ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.5ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.8ms)
+
+
+Started GET "/hello" for 69.165.255.169 at 2013-08-29 00:30:47 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"hello"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.9ms)
+
+
+Started GET "/helloq" for 69.165.255.169 at 2013-08-29 00:30:49 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"helloq"}
+Completed 500 Internal Server Error in 2ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.9ms)
+
+
+Started GET "/helloq-e" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"helloq-e"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/pie_chart.haml (5.2ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/word_comparison_barchart.haml (0.3ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/type_subtype/empirical_study.haml (2.5ms)
+  Rendered definition/result.haml within layouts/dictionary (15.5ms)
+Completed 200 OK in 113ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /jquery.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/definition.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/public.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 69.165.255.169 at 2013-08-29 00:31:07 +0000
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/hello" for 69.165.255.169 at 2013-08-29 00:31:10 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"hello"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.0ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.7ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:32:45 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 3ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:47:in `rand'
+  app/controllers/definition_controller.rb:47:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (25.1ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:58 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 7ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.1ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:59 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.0ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:59 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.8ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.7ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:59 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.7ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.8ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:59 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.9ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:59 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.2ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:33:59 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.4ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.6ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (22.8ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:34:00 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (25.4ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:34:00 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.6ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.5ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.3ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:34:00 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.1ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:34:00 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+Completed 500 Internal Server Error in 1ms
+
+ArgumentError (invalid argument - 0):
+  app/controllers/definition_controller.rb:48:in `rand'
+  app/controllers/definition_controller.rb:48:in `get_relevant_partials'
+  app/controllers/definition_controller.rb:11:in `search'
+
+
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+  Rendered /opt/bitnami/ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.8ms)
+
+
+Started GET "/math" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"math"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (8.6ms)
+  Rendered definition/result.haml within layouts/dictionary (11.8ms)
+Completed 200 OK in 188ms (Views: 175.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /public.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:22 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/smash" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"smash"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (4.1ms)
+  Rendered definition/result.haml within layouts/dictionary (6.7ms)
+Completed 200 OK in 90ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /definition.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /definition.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /application.js - 304 Not Modified (87ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:30 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/quast" for 192.168.0.100 at 2013-08-29 00:34:32 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"quast"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (5.8ms)
+  Rendered definition/result.haml within layouts/dictionary (8.2ms)
+Completed 200 OK in 91ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:32 +0000
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /jquery.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /definition.js - 304 Not Modified (19ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /graphs.js - 304 Not Modified (13ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:34:33 +0000
+Served asset /script.js - 304 Not Modified (1ms)
+
+
+Started GET "/quast" for 192.168.0.100 at 2013-08-29 00:35:01 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"quast"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (5.8ms)
+  Rendered definition/result.haml within layouts/dictionary (8.1ms)
+Completed 200 OK in 179ms (Views: 170.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /application.css - 304 Not Modified (14ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /definition.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /jquery.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /definition.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /graphs.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /public.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /script.js.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:02 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/quast" for 192.168.0.100 at 2013-08-29 00:35:08 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"quast"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (5.1ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.7ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (3.6ms)
+  Rendered definition/result.haml within layouts/dictionary (15.8ms)
+Completed 200 OK in 108ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:08 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:08 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:08 +0000
+Served asset /boots.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /style.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /definition.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /script.js - 304 Not Modified (16ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:09 +0000
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/quack" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"quack"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (0.9ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.1ms)
+  Rendered definition/result.haml within layouts/dictionary (4.8ms)
+Completed 200 OK in 89ms (Views: 82.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /jquery.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /public.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /definition.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /script.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /application.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:12 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:13 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:13 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/quacksystem" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"quacksystem"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (1.1ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.2ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (87.6ms)
+  Rendered definition/result.haml within layouts/dictionary (96.6ms)
+Completed 200 OK in 180ms (Views: 174.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:16 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:35:17 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/teller" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"teller"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (4.7ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (0.8ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.1ms)
+  Rendered definition/result.haml within layouts/dictionary (11.5ms)
+Completed 200 OK in 96ms (Views: 90.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /definition.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /public.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /jquery.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /public.js - 304 Not Modified (14ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /script.js.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /application.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /script.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:19 +0000
+Served asset /graphs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:20 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:20 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:20 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:20 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/teller" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Processing by DefinitionController#search as HTML
+  Parameters: {"searchstring"=>"teller"}
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/single_word/single_word.haml (6.2ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/closet.haml (2.8ms)
+DEPRECATION WARNING: Passing a template handler in the template name is deprecated. You can simply remove the handler name or pass render :handlers => [:haml] instead. (called from block in _app_views_definition_result_haml___4021225452356692595_15829160 at /opt/bitnami/projects/tautology.iteloo/tautology/app/views/definition/result.haml:3)
+  Rendered term_handlers/general/history.haml (0.2ms)
+  Rendered definition/result.haml within layouts/dictionary (15.8ms)
+Completed 200 OK in 116ms (Views: 104.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /boots.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/boots%20-%20Copy.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /boots%20-%20Copy.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/public.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /public.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/definition.css?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /definition.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/definition.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /definition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/graphs.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /graphs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/public.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /public.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/page-specific/public-index.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /page-specific/public-index.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /script.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/script.js" for 192.168.0.100 at 2013-08-29 00:35:44 +0000
+Served asset /script.js - 304 Not Modified (0ms)
